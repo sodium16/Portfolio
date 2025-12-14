@@ -1,12 +1,12 @@
-#Vishwas Naveen - Personal Portfolio#
+#Vishwas Naveen - Personal Portfolio
 
 This repository contains the source code for my personal portfolio website, designed to showcase my skills, projects, and experience as a software engineer and AI/ML student.
 
 The site is a modern, fully responsive single-page application built with React and featuring cinematic scroll-based animations orchestrated with GSAP.
 
-###View the live site: https://vishwasnaveen.vercel.app###
+###View the live site: vishwasnaveen.vercel.app
 
-##Features##
+##Features
 
 Responsive Design: A custom, mobile-first layout that ensures a great experience on all devices, from phones to desktops.
 
