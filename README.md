@@ -4,7 +4,7 @@ This repository contains the source code for my personal portfolio website, desi
 
 The site is a modern, fully responsive single-page application built with React and featuring cinematic scroll-based animations orchestrated with GSAP.
 
-###View the live site: vishwasnaveen.vercel.app
+###View the live site: https://vishwasnaveen.vercel.app
 
 ##Features
 
