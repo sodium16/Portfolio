@@ -41,8 +41,8 @@ To run this project on your local machine, follow these steps:
 1. Clone the repository:
 
 ```
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-cd your-repository-name
+git clone [https://github.com/sodium16/portfolio.git](https://github.com/sodium16/portfolio.git)
+cd portfolio
 ```
 
 2. Install dependencies:
