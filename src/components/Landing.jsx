@@ -10,7 +10,7 @@ const experiences = [
   { title: 'DIGITAL AND DESIGN CORE', company: 'nodedotai', desktopPosition: 'absolute top-[30%] left-[5%] md:left-[15%] text-left' },
   { title: 'MARKETING TEAM MEMBER', company: 'TEDxBITBangalore', desktopPosition: 'absolute top-[30%] right-[5%] md:right-[15%] text-right' },
   { title: 'JUNIOR IN ENGINEERING', company: 'Bangalore Institute of Technology', desktopPosition: 'absolute bottom-[10%] left-[5%] md:left-[15%] text-left' },
-  { title: 'FULL-STACK WEB DEVELOPER INTERN', company: 'Future Interns', desktopPosition: 'absolute bottom-[10%] right-[5%] md:right-[15%] text-right' },
+  { title: 'SOFTWARE DEVELOPER', company: 'Green Resumes', desktopPosition: 'absolute bottom-[10%] right-[5%] md:right-[15%] text-right' },
 ];
 
 const Landing = () => {
